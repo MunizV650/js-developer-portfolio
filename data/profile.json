@@ -1,40 +1,40 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Marcelo Muniz Junior",
+  "photo": "https://avatars.githubusercontent.com/u/106180570?v=4",
+  "job": "junior Developer",
+  "location": "Campo Grande - MS",
+  "phone": "(67) 99123-4057",
+  "email": "muniz.tw@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/MunizV650/portfolio-marcelo-muniz-junior/master/data/imgs/html.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/MunizV650/portfolio-marcelo-muniz-junior/master/data/imgs/css.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/MunizV650/portfolio-marcelo-muniz-junior/master/data/imgs/js.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/MunizV650/portfolio-marcelo-muniz-junior/master/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/MunizV650/portfolio-marcelo-muniz-junior/master/data/imgs/python.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/MunizV650/portfolio-marcelo-muniz-junior/master/data/imgs/git.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Comprometimento",
+      "Facilidade com Tecnologia",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -43,36 +43,35 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (iniciante)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "BootCamp Geração Tech Unimed-BH FullStack",
+      "url": "https://www.dio.me/certificate/6AB6B8E4",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "BootCamp .Net Developer",
+      "url": "https://www.dio.me/certificate/0BAED2C4",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
+      "name": "Estudante Dev FullStack",
       "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "description": "Estudante Dev Fullstack, Html, CSS, JavaScript, Brotstrap, React, .Net, C#, Python"
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "Mineirin Quitutes de Minas · Autônomo",
       "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "description": "Vendas On-line de Doces e Queijos do Sul de Minas Gerais"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Construtora Mendes Júnior",
+      "period": "2009 - 2021",
+      "description": "Gestor de Administração de Contratos, administrando negociações, contratações e pagamentos de contratos de serviços e de locações de equipamentos na área de Construção Civil de Infraestrutura. Atuando em Obras de Metrô(SP), Trens Metropolitanos (CPTM), Boulevard Arrudas (BH), Arena Pantanal (MT), BR 163/364 (MT, Cidade Administrativa (BH). Experiência com mais de 20 anos no mercado Brasileiro."
     }
   ]
 }
